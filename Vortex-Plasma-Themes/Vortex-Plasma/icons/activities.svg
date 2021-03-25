@@ -29,7 +29,7 @@
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
-     showgrid="true"
+     showgrid="false"
      units="px"
      inkscape:window-width="1920"
      inkscape:window-height="1007"
@@ -64,14 +64,15 @@
      inkscape:groupmode="layer"
      id="layer1">
     <g
-       id="activities">
+       id="activities"
+       style="fill:#d3dae3;fill-opacity:1">
       <rect
          y="0"
          x="0"
          height="8.4666662"
          width="8.4666662"
          id="rect1430"
-         style="opacity:0.01;fill:#d3dae3;stroke-width:0.529167" />
+         style="opacity:0.00100002;fill-opacity:0.01;stroke-width:0.529167" />
       <path
          stroke-width="0.198451"
          stroke-linecap="round"
@@ -95,9 +96,10 @@
          style="fill:#d3dae3;fill-opacity:1;stroke:#d3dae3;stroke-opacity:1" />
     </g>
     <g
-       id="22-22-activities">
+       id="22-22-activities"
+       style="fill:#d3dae3;fill-opacity:1">
       <rect
-         style="opacity:0.00100002;fill:#d3dae3;fill-opacity:1;stroke-width:0.363802"
+         style="opacity:0.00100002;fill-opacity:0.01;stroke-width:0.363802"
          id="rect1430-3-7-5"
          width="5.8208323"
          height="5.8208323"
