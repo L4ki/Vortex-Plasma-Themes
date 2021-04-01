@@ -26,3 +26,21 @@ Plasma Themes
 --------------
 
 Fixed icons: activities.svg, phone.svg
+
+Changelog: 01.04.2021.
+---------------------
+
+GTK Theme
+---------
+
+Fixed gtk.css file
+
+Icons
+-----
+
+Added Icons: folder-Github, folder-KDE, folder-Neon, folder-Manjaro, folder-openSUSE, folder-reddit (16,22,24)
+
+Plasma Themes
+-------------
+
+Fixed widget: viewitem.svg
