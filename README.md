@@ -44,3 +44,21 @@ Plasma Themes
 -------------
 
 Fixed widget: viewitem.svg
+
+Changelog: 08.04.2021.
+----------------------
+
+GTK-Theme
+----------
+
+Fixed icons: border, button-active, button-hover, button-insensitive, button
+
+Icons
+------
+
+Added icons: folder-KaOS.svg, folder-Pop_OS.svg (places 16, 22, 24, 32, 48, 64, 96)
+
+Plasma Themes
+--------------
+
+Added Icons: utilities.svg, kopete.svg, choqok.svg, choqok_offline.svg
