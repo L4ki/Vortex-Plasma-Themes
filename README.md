@@ -62,3 +62,8 @@ Plasma Themes
 --------------
 
 Added Icons: utilities.svg, kopete.svg, choqok.svg, choqok_offline.svg
+
+Changelog: 17.04.2021.
+---------------------
+
+Fixed icon: input.svg
