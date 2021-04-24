@@ -67,3 +67,21 @@ Changelog: 17.04.2021.
 ---------------------
 
 Fixed icon: input.svg
+
+Changelog: 24.04.2021.
+----------------------
+
+GTK Theme
+----------
+
+Fixed icons: hendle.png, handle-vert.png, handle-horz.png
+
+Icons
+-----
+
+Added new icons: applets (256)
+
+Plasma Themes
+--------------
+
+Added widgets: configuration-icons.svg, containment-controls.svg
