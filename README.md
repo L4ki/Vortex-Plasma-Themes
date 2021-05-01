@@ -85,3 +85,22 @@ Plasma Themes
 --------------
 
 Added widgets: configuration-icons.svg, containment-controls.svg
+
+Changelog: 01.05.2021.
+-----------------------
+
+GTK Theme
+----------
+
+File correction: gtkrc (GTK-2.0) and gtk.css (GTK-3.0) 
+
+Icons 
+-----
+
+Added new icons: action (16)
+
+Plasma Themes
+-------------
+
+Added icons: kup.svg, software.svg, TeamViewer.svg
+
