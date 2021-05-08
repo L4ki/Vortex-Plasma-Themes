@@ -104,3 +104,21 @@ Plasma Themes
 
 Added icons: kup.svg, software.svg, TeamViewer.svg
 
+Changelog: 08.05.2021.
+----------------------
+
+GTK Theme
+---------
+
+Fixed icons: progressbar-horz.png, progressbar-vert.png
+
+Icons
+-----
+
+Added new icons: actions (22)
+
+Plasma Themes
+--------------
+
+Added icons: kup.svg, mobile.svg
+
