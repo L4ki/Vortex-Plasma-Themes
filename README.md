@@ -122,3 +122,21 @@ Plasma Themes
 
 Added icons: kup.svg, mobile.svg
 
+Changelog: 17.05.2021.
+----------------------
+
+GTK Theme
+---------
+
+Fixed icons: checkbox-checked-active, checkbox-checked-hover, checkbox-checked-insensitive, checkbox-checked
+
+Icons
+-----
+
+Added new icons: action (16,22,24,32)
+
+Plasma Themes
+--------------
+
+Added icons: fcitx.svg, ime.svg
+
