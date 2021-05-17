@@ -133,7 +133,7 @@ Fixed icons: checkbox-checked-active, checkbox-checked-hover, checkbox-checked-i
 Icons
 -----
 
-Added new icons: action (16,22,24,32)
+Added new icons: actions (16,22,24,32)
 
 Plasma Themes
 --------------
