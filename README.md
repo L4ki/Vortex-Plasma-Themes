@@ -140,3 +140,23 @@ Plasma Themes
 
 Added icons: fcitx.svg, ime.svg
 
+Changelog: 26.05.2021.
+-----------------------
+
+GTK Theme
+----------
+
+Fixed icons: treeview-separator-ltr, treeview-separator-rtl
+
+Icons
+-----
+
+Added new icons: status (48, 64)
+
+Plasma Themes
+--------------
+
+Fixed widgets: configuration-icons.svg, containment-controls.svg 
+
+Fixed icons: software.svg, TeamViewer.svg
+
