@@ -160,3 +160,21 @@ Fixed widgets: configuration-icons.svg, containment-controls.svg
 
 Fixed icons: software.svg, TeamViewer.svg
 
+Changelog: 06.06.2021.
+----------------------
+
+GTK Theme
+---------
+
+Redesigned theme 
+
+Icons
+------
+
+Added new icons: actions (32)
+
+Plasma themes
+--------------
+
+Added icons: audacious.svg, elise.svg
+
