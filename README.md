@@ -178,3 +178,23 @@ Plasma themes
 
 Added icons: audacious.svg, elise.svg
 
+Changelog: 18.06.2021.
+-----------------------
+
+GTK Theme
+---------
+
+Fixed icon: menubar-item-active
+
+Icons
+-----
+
+Added new icons: actions (16)
+
+Plasma Themes
+--------------
+
+Enable "Adaptive Transparency" for Plasma 5.22
+
+Fixed icon: elisa.svg
+
