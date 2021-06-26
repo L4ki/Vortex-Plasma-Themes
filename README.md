@@ -198,6 +198,9 @@ Enable "Adaptive Transparency" for Plasma 5.22
 
 Fixed icon: elisa.svg
 
+Changelog: 26.06.2021.
+----------------------
+
 GTK Theme
 ----------
 
