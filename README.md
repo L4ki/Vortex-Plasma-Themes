@@ -198,3 +198,23 @@ Enable "Adaptive Transparency" for Plasma 5.22
 
 Fixed icon: elisa.svg
 
+GTK Theme
+----------
+
+Fixed icons: scrollbar-vert-trough-rtl, scrollbar-vert-trough
+
+Vortex-Dark-Icons
+------------------
+
+Added new icons: actions (22, 24)
+
+Vortex-Light-Icons
+-------------------
+
+Added new icons: actions (16)
+
+Plasma Themes
+--------------
+
+Added icons: kdf.svg, juk.svg, emblem.svg
+
