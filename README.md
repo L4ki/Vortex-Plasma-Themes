@@ -221,3 +221,21 @@ Plasma Themes
 
 Added icons: kdf.svg, juk.svg, emblem.svg
 
+Changelog: 04.07.2021.
+----------------------
+
+GTK Theme
+----------
+
+Fixed icons: line.png, menu-border.png
+
+Icons
+-----
+
+Added new icons: actions (16)
+
+Plasma Themes
+--------------
+
+Fixed icon; kalarm.svg
+
