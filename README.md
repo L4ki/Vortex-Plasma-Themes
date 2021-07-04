@@ -237,5 +237,5 @@ Added new icons: actions (16)
 Plasma Themes
 --------------
 
-Fixed icon; kalarm.svg
+Fixed icon: kalarm.svg
 
