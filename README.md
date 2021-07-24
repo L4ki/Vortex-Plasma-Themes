@@ -239,3 +239,16 @@ Plasma Themes
 
 Fixed icon: kalarm.svg
 
+Changelog: 24.07.2021.
+----------------------
+
+Icons
+------
+
+Added new icons ( actions 16)
+
+Plasma Theme
+-------------
+
+Fixed icon: juk.svg
+
