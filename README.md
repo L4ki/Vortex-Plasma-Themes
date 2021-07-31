@@ -252,3 +252,16 @@ Plasma Theme
 
 Fixed icon: juk.svg
 
+31.07.2021.
+-----------
+
+Icons
+------
+
+Added new icons: actions (22)
+
+Plasma Theme
+------------
+
+Fixed icon: software.svg
+
