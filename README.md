@@ -265,3 +265,15 @@ Plasma Theme
 
 Fixed icon: software.svg
 
+Changelog: 07.08.2021. (20h)
+----------------------------
+
+Icons
+-----
+
+Added new icons: actions (24)
+
+Plasma Theme
+-------------
+
+Fixed widgets: action-overlays.svg, arrows/svg, tasks.svg
