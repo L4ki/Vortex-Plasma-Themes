@@ -88,7 +88,7 @@
      showgrid="false"
      inkscape:current-layer="layer1"
      inkscape:document-units="px"
-     inkscape:cy="35.499453"
+     inkscape:cy="21.357317"
      inkscape:cx="9.9308227"
      inkscape:zoom="5.6568542"
      inkscape:pageshadow="2"
@@ -100,7 +100,9 @@
      bordercolor="#000000"
      pagecolor="#ffffff"
      id="base"
-     showguides="false">
+     showguides="false"
+     inkscape:showpageshadow="false"
+     inkscape:lockguides="false">
     <inkscape:grid
        snapvisiblegridlinesonly="true"
        enabled="true"
@@ -117,7 +119,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
