@@ -277,3 +277,18 @@ Plasma Theme
 -------------
 
 Fixed widgets: action-overlays.svg, arrows.svg, tasks.svg
+
+
+Changelog: 15.08.2021.
+----------------------------
+
+Icons
+------
+
+Added new icons: actions (32)
+
+Plasma Theme
+------------
+
+Fixed widget: viewitem.svg
+
