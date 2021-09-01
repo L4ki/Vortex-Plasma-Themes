@@ -292,3 +292,8 @@ Plasma Theme
 
 Fixed widget: viewitem.svg
 
+Changelog: 01.09.2021.
+---------------------
+
+Fixed icons: activities.svg, apport.svg
+
