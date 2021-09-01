@@ -295,5 +295,13 @@ Fixed widget: viewitem.svg
 Changelog: 01.09.2021.
 ---------------------
 
+Icons
+------
+
+Added new icons: actions (24)
+
+Plasma Theme
+-------------
+
 Fixed icons: activities.svg, apport.svg
 
