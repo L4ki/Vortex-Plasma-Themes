@@ -305,3 +305,16 @@ Plasma Theme
 
 Fixed icons: activities.svg, apport.svg
 
+Changelog: 08.09.2021.
+-----------------------
+
+Icons
+------
+
+Added new icons: apps (16, 32, 48)
+
+Plasma Theme
+-------------
+
+Fixed icons: computer.svg, device.svg
+
