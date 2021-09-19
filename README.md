@@ -318,3 +318,15 @@ Plasma Theme
 
 Fixed icons: computer.svg, device.svg
 
+Changelog: 19.09.2021.
+----------------------
+
+Icons
+------
+Added new icons: status
+
+Plasma Theme
+-------------
+
+Fixed icons: phone.svg, printer.svg
+
