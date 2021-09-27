@@ -330,3 +330,13 @@ Plasma Theme
 
 Fixed icons: phone.svg, printer.svg
 
+Changelog: 27.09.2021.
+----------------------
+
+Icons: Added new icons: status (22, 24)
+
+Plasma Theme
+------------
+
+Fixed widgets: listitem.svg, scrollbar.svg
+
