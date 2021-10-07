@@ -340,3 +340,11 @@ Plasma Theme
 
 Fixed widgets: listitem.svg, scrollbar.svg
 
+Changelog: 07.10.2021.
+----------------------
+
+Plasma Theme
+-------------
+
+Fixed icons: disk.svg, distribute.svg
+
