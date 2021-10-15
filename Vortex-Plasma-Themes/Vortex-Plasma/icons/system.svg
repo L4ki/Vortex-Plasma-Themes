@@ -1,35 +1,35 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   inkscape:version="1.0.2 (e86c870879, 2021-01-15)"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
    sodipodi:docname="system.svg"
    viewBox="0 0 32 32"
    id="svg2"
    version="1.1"
    width="32"
-   height="32">
+   height="32"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <sodipodi:namedview
      inkscape:document-rotation="0"
      inkscape:snap-intersection-paths="true"
      inkscape:snap-nodes="false"
      inkscape:bbox-nodes="true"
      inkscape:snap-bbox="true"
-     inkscape:lockguides="false"
+     inkscape:lockguides="true"
      inkscape:guide-bbox="true"
      showguides="false"
      inkscape:current-layer="svg2"
      inkscape:window-maximized="1"
      inkscape:window-y="0"
      inkscape:window-x="0"
-     inkscape:cy="61.06125"
-     inkscape:cx="20.54675"
-     inkscape:zoom="1.4142138"
+     inkscape:cy="104.49998"
+     inkscape:cx="-24.749996"
+     inkscape:zoom="2.0000003"
      showgrid="false"
      id="namedview78"
      inkscape:window-height="1007"
@@ -40,20 +40,22 @@
      gridtolerance="10"
      objecttolerance="10"
      borderopacity="1"
-     bordercolor="#666666"
-     pagecolor="#ffffff">
+     bordercolor="#000000"
+     pagecolor="#ffffff"
+     inkscape:pagecheckerboard="0"
+     inkscape:showpageshadow="false">
     <inkscape:grid
        id="grid885"
        type="xygrid"
        originx="-121"
        originy="73" />
     <sodipodi:guide
-       inkscape:locked="false"
+       inkscape:locked="true"
        id="guide948"
        orientation="0.70710678,0.70710678"
        position="-120.25926,-168.85938" />
     <sodipodi:guide
-       inkscape:locked="false"
+       inkscape:locked="true"
        id="guide950"
        orientation="-0.70710678,0.70710678"
        position="-120.2963,-168.875" />
@@ -66,7 +68,6 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
