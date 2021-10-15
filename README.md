@@ -348,3 +348,17 @@ Plasma Theme
 
 Fixed icons: disk.svg, distribute.svg
 
+Changelog: 15.10.2021.
+----------------------
+
+Icons
+------
+
+Added new icons: mimetypes
+
+Plasma Theme
+-------------
+
+Fixed icons: system.svg
+
+
