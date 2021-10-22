@@ -374,7 +374,7 @@ Plasma Theme
 
 Enabled Blured Widgets for Plasma 5.23
 
-Fixed icons: arrows.svg, background.svg
+Fixed widgets: arrows.svg, background.svg
 
 
 
