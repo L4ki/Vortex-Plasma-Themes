@@ -403,4 +403,17 @@ Plasma Theme
 
 Fixed widget: tasks.svg
 
+Changelog: 12.11.2021.
+----------------------
+
+Icons
+------
+
+Added new icons: actions
+
+Plasma Theme
+-------------
+
+Fixed icon: kalarm.svg
+
 
