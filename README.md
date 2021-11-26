@@ -430,3 +430,18 @@ Plasma Theme
 Fixed widget: clock.svg
 
 
+Changelog: 26.11.2021.
+----------------------
+
+Icons
+------
+
+Added new icons: actions (22)
+
+Plasma Theme
+-------------
+
+Fixed icon: battery.svg
+
+
+
