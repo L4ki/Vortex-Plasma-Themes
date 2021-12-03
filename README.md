@@ -443,5 +443,18 @@ Plasma Theme
 
 Fixed icon: battery.svg
 
+Changelog: 03.12.2021.
+----------------------
+
+Icons
+------
+
+Added new icons: actions (24)
+
+Plasma Theme
+-------------
+
+Fixed widget: busywidget.svg
+
 
 
