@@ -456,5 +456,19 @@ Plasma Theme
 
 Fixed widget: busywidget.svg
 
+Changelog: 10.12.2021.
+----------------------
+
+Icons
+------
+
+Added new icons: actions (16)
+
+Plasma Theme
+-------------
+
+Fixed widget: tasks.svg
+
+
 
 
