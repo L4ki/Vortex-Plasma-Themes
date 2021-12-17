@@ -469,6 +469,19 @@ Plasma Theme
 
 Fixed widget: tasks.svg
 
+Changelog: 17.12.2021.
+----------------------
+
+Icons
+------
+
+Added new icons: preferences
+
+Plasma Theme
+-------------
+
+Fixed widget: panel-background.svg
+
 
 
 
