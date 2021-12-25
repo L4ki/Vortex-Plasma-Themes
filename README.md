@@ -489,6 +489,7 @@ Icons
 ------
 
 Added new icons: actions (22)
+
 Plasma Theme
 -------------
 
