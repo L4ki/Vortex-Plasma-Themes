@@ -482,6 +482,18 @@ Plasma Theme
 
 Fixed widget: panel-background.svg
 
+Changelog: 25.12.2021.
+----------------------
+
+Icons
+------
+
+Added new icons: actions (22)
+Plasma Theme
+-------------
+
+Fixed widget: slider.svg
+
 
 
 
