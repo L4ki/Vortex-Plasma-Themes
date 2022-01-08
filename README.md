@@ -508,5 +508,18 @@ Plasma Theme
 
 Fixed widget: pager.svg
 
+Changelog: 08.01.2022.
+----------------------
+
+Icons
+------
+
+Added new icons: actions (16)
+
+Plasma Theme
+-------------
+
+Fixed widget: tabbar.svg
+
 
 
