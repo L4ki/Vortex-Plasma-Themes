@@ -521,5 +521,18 @@ Plasma Theme
 
 Fixed widget: tabbar.svg
 
+Changelog: 15.01.2022.
+----------------------
+
+Icons
+------
+
+Added new icons: actions (48, symbolic)
+
+Plasma Theme
+-------------
+
+Fixed widget: bar_meter_horizontal.svg, bar_meter_vertical.svg
+
 
 
