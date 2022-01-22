@@ -534,5 +534,16 @@ Plasma Theme
 
 Fixed widget: bar_meter_horizontal.svg, bar_meter_vertical.svg
 
+Changelog: 22.01.2022.
+----------------------
 
+Icons
+------
+
+Added new icons: status (16)
+
+Plasma Theme
+-------------
+
+Update widget: actionbutton.svg
 
