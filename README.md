@@ -547,3 +547,16 @@ Plasma Theme
 
 Update widget: actionbutton.svg
 
+Changelog: 29.01.2022.
+----------------------
+
+Icons
+------
+
+Added new icons: status (22)
+
+Plasma Theme
+-------------
+
+Update widget: checkmarks.svg
+
