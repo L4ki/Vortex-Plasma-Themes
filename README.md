@@ -558,5 +558,7 @@ Added new icons: status (22)
 Plasma Theme
 -------------
 
-Update widget: checkmarks.svg
+Added: opaque, solid, translucent
+
+Update widget: checkmarks.svg, slider.svg
 
