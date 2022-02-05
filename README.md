@@ -562,3 +562,24 @@ Added: opaque, solid, translucent
 
 Update widget: checkmarks.svg, slider.svg
 
+Changelog: 05.02.2022.
+----------------------
+
+Icons
+------
+
+Vortex-Dark-Icons
+------------------
+
+Added new icons: status (symbolic)
+
+Vortex-Light-Icons
+------------------
+
+Added new icons: apps (48)
+
+Plasma Theme
+-------------
+
+Update widget: tooltip.svg
+
