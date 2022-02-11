@@ -583,3 +583,24 @@ Plasma Theme
 
 Update widget: tooltip.svg
 
+Changelog: 12.02.2022.
+----------------------
+
+Icons
+------
+
+Vortex-Dark-Icons
+------------------
+
+Added new icons: applets (256)
+
+Vortex-Light-Icons
+------------------
+
+Added new icons: actions (32)
+
+Plasma Theme
+-------------
+
+Update widget: button.svg
+
