@@ -646,4 +646,18 @@ Plasma Theme
 
 Update widget: calendar.svg
 
+Changelog: 12.03.2022.
+----------------------
+
+Icons
+------
+
+Added new icons: devices (64)
+
+
+Plasma Theme
+-------------
+
+Update icon: window.svg
+
 
