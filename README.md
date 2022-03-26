@@ -675,4 +675,18 @@ Plasma Theme
 
 Update icon: view.svg
 
+Changelog: 26.03.2022.
+----------------------
+
+Icons
+------
+
+Added new icons: mimetypes (22)
+
+
+Plasma Theme
+-------------
+
+Update widget: busywidget.svg
+
 
