@@ -689,4 +689,18 @@ Plasma Theme
 
 Update widget: busywidget.svg
 
+Changelog: 04.04.2022.
+----------------------
+
+Icons
+------
+
+Added new icons: mimetypes (32)
+
+
+Plasma Theme
+-------------
+
+Update icon: input.svg
+
 
