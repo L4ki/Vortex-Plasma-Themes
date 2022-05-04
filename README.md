@@ -701,6 +701,6 @@ Plasma Theme
 
 Update icon: input.svg
 
-Update widget: scrollbar.svg
+Update widget: scrollbar.svg, bar_meter_vertical.svg, bar_meter_horizontal.svg
 
 
