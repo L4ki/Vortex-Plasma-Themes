@@ -687,7 +687,7 @@ Plasma Theme
 
 Update widget: busywidget.svg
 
-Changelog: 04.04.2022.
+Changelog: 04.05.2022.
 ----------------------
 
 Icons
@@ -700,5 +700,7 @@ Plasma Theme
 -------------
 
 Update icon: input.svg
+
+Update widget: scrollbar.svg
 
 
