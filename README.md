@@ -703,4 +703,19 @@ Update icon: input.svg
 
 Update widget: scrollbar.svg, bar_meter_vertical.svg, bar_meter_horizontal.svg
 
+Changelog: 11.05.2022.
+----------------------
+
+Icons
+------
+
+Added new icons: actions (16)
+
+
+Plasma Theme
+-------------
+
+Update icon: akonadi.svg
+
+
 
