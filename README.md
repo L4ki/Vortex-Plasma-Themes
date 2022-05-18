@@ -717,5 +717,19 @@ Plasma Theme
 
 Update icon: akonadi.svg
 
+Changelog: 18.05.2022.
+----------------------
+
+Icons
+------
+
+Added new icons: actions 22
+
+
+Plasma Theme
+-------------
+
+Update icons: device.svg, klipper.svg
+
 
 
