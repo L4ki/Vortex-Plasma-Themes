@@ -731,5 +731,19 @@ Plasma Theme
 
 Update icons: device.svg, klipper.svg
 
+Changelog: 30.05.2022.
+----------------------
+
+Icons
+------
+
+Added new icons: actions 24
+
+
+Plasma Theme
+-------------
+
+Update icons: configure.svg, distribute.svg
+
 
 
