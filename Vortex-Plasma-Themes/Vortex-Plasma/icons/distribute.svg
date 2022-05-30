@@ -4,7 +4,7 @@
    viewBox="0 0 22 22"
    id="svg7"
    sodipodi:docname="distribute.svg"
-   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -20,29 +20,29 @@
        id="path2" />
     <path
        class="fil0"
-       d="M 5.2999184,8.9000001 H 16.83685 c 0.679668,0 1.219916,0.557677 1.219916,1.2199169 v 1.742739 c 0,0.679669 -0.540248,1.237345 -1.219916,1.237345 H 5.2999184 c -0.662241,0 -1.219917,-0.557676 -1.219917,-1.237345 v -1.742739 c 0,-0.6622399 0.557676,-1.2199169 1.219917,-1.2199169 z m 0,0.609959 H 16.83685 c 0.331119,0 0.609959,0.278838 0.609959,0.6099579 v 1.742739 c 0,0.348548 -0.27884,0.609959 -0.609959,0.609959 H 5.2999184 c -0.3311211,0 -0.6099591,-0.261411 -0.6099591,-0.609959 v -1.742739 c 0,-0.3311199 0.278838,-0.6099579 0.6099591,-0.6099579 z"
+       d="M 5.221945,9 H 16.778056 C 17.458854,9 18,9.5311208 18,10.161825 v 1.659752 C 18,12.46888 17.458854,13 16.778056,13 H 5.221945 C 4.5586031,13 4,12.46888 4,11.821577 V 10.161825 C 4,9.5311208 4.5586031,9 5.221945,9 Z m 0,0.5809132 h 11.556111 c 0.33167,0 0.610973,0.26556 0.610973,0.5809118 v 1.659752 c 0,0.33195 -0.279303,0.580913 -0.610973,0.580913 H 5.221945 c -0.3316715,0 -0.610973,-0.248963 -0.610973,-0.580913 v -1.659752 c 0,-0.3153518 0.2793015,-0.5809118 0.610973,-0.5809118 z"
        id="path6-3"
-       style="fill:#d3dae3;fill-rule:evenodd;stroke-width:0.0174274;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision;fill-opacity:1" />
+       style="fill:#d3dae3;fill-opacity:1;fill-rule:evenodd;stroke-width:0.0170215;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision" />
     <rect
-       x="5.8000002"
+       x="6"
        y="-20"
-       width="0.82000005"
+       width="1"
        height="18"
-       rx="0.41000003"
+       rx="0.5"
        ry="0.45375058"
        transform="rotate(90)"
        id="rect4"
-       style="stroke-width:0.247945;fill:#d3dae3;fill-opacity:1" />
+       style="fill:#d3dae3;fill-opacity:1;stroke-width:0.273809" />
     <rect
-       x="15.380001"
+       x="15"
        y="-20"
-       width="0.82000005"
+       width="1"
        height="18"
-       rx="0.41000003"
+       rx="0.5"
        ry="0.45375058"
        transform="rotate(90)"
        id="rect4-6"
-       style="stroke-width:0.247945;fill:#d3dae3;fill-opacity:1" />
+       style="fill:#d3dae3;fill-opacity:1;stroke-width:0.273809" />
   </g>
   <metadata
      id="metadata13">
@@ -67,12 +67,12 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1007"
+     inkscape:window-height="1011"
      id="namedview9"
      showgrid="false"
-     inkscape:zoom="10.092342"
-     inkscape:cx="31.954922"
-     inkscape:cy="11.295693"
+     inkscape:zoom="14.272727"
+     inkscape:cx="15.659236"
+     inkscape:cy="13.557325"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
