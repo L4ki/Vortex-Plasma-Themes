@@ -745,5 +745,20 @@ Plasma Theme
 
 Update icons: configure.svg, distribute.svg
 
+Changelog: 06.06.2022.
+----------------------
+
+Icons
+------
+
+Added new icons: actions 16
+
+
+Plasma Theme
+-------------
+
+Update icons: activities.svg, klipper.svg, preferences.svg, redshift.svg, video.svg
+
+
 
 
