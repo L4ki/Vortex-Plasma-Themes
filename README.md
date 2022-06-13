@@ -759,6 +759,20 @@ Plasma Theme
 
 Update icons: activities.svg, klipper.svg, preferences.svg, redshift.svg, video.svg
 
+Changelog: 13.06.2022.
+----------------------
+
+Icons
+------
+
+Update icons: actions 22
+
+
+Plasma Theme
+-------------
+
+Update icons: choqok, choqok_offline, kaffeine, konv_message, konversation, plasmavault_error, plasmavault, utilities
+
 
 
 
