@@ -773,6 +773,20 @@ Plasma Theme
 
 Update icons: choqok, choqok_offline, kaffeine, konv_message, konversation, plasmavault_error, plasmavault, utilities
 
+Changelog: 21.06.2022.
+----------------------
+
+Icons
+------
+
+Update icons: actions 24
+
+
+Plasma Theme
+-------------
+
+Update icons: distribute, kdeconnect, ktorrent, kmail, mail, quassel
+
 
 
 
