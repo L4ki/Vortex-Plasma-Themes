@@ -787,6 +787,19 @@ Plasma Theme
 
 Update icons: distribute, kdeconnect, ktorrent, kmail, mail, quassel
 
+Changelog: 28.06.2022.
+----------------------
+
+Icons
+------
+
+Update icons: actions 16
+
+
+Plasma Theme
+-------------
+
+Update icon: touchpad.svg
 
 
 
