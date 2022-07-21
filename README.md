@@ -801,5 +801,19 @@ Plasma Theme
 
 Update icon: touchpad.svg
 
+Changelog: 21.07.2022.
+----------------------
+
+Icons
+------
+
+Added new icons: actions 22
+
+
+Plasma Theme
+-------------
+
+Update icon: zoom.svg
+
 
 
