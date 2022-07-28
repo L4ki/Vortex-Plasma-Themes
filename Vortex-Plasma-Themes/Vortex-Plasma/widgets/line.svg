@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="47"
    height="45"
    id="svg2"
    sodipodi:version="0.32"
-   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
    version="1.0"
    sodipodi:docname="line.svg"
    inkscape:output_extension="org.inkscape.output.svg.inkscape"
    inkscape:export-filename="arrow-up.png"
    inkscape:export-xdpi="11.25"
-   inkscape:export-ydpi="11.25">
+   inkscape:export-ydpi="11.25"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -29,15 +29,15 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="8.3298085"
-     inkscape:cx="-53.071205"
-     inkscape:cy="19.456129"
+     inkscape:cx="19.808379"
+     inkscape:cy="24.310283"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      width="128px"
      height="128px"
      showgrid="false"
      inkscape:window-width="1920"
-     inkscape:window-height="1016"
+     inkscape:window-height="1000"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:snap-nodes="true"
@@ -48,7 +48,9 @@
      fit-margin-bottom="0"
      inkscape:showpageshadow="false"
      borderlayer="true"
-     inkscape:document-rotation="0">
+     inkscape:document-rotation="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1">
     <inkscape:grid
        enabled="true"
        visible="true"
@@ -69,8 +71,7 @@
      id="defs4">
     <style
        id="current-color-scheme"
-       type="text/css">
-  </style>
+       type="text/css" />
   </defs>
   <metadata
      id="metadata7">
@@ -80,7 +81,6 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -124,11 +124,11 @@
          inkscape:connector-curvature="0"
          id="path3767"
          d="m 75.690972,55.529 h -40 v 3 h 40 z"
-         style="color:#31363b;opacity:0.01;fill:currentColor;fill-opacity:0.3;stroke:none"
+         style="color:#31363b;opacity:0.01;fill:#31363b;fill-opacity:0.01;stroke:none"
          inkscape:label="#path2992" />
       <path
          inkscape:label="#path2992"
-         style="color:#eff0f1;opacity:0.01;fill:currentColor;fill-opacity:0.1;stroke:none"
+         style="color:#eff0f1;opacity:0.01;fill:#eff0f1;fill-opacity:0.01;stroke:none"
          d="m 75.690972,56.529 h -40 v 1 h 40 z"
          id="path2992"
          inkscape:connector-curvature="0"
@@ -137,8 +137,8 @@
          class="ColorScheme-Text"
          inkscape:connector-curvature="0"
          id="path3787"
-         d="m 75.690972,57.329 h -40 v 0.2 h 40 z"
-         style="color:#31363b;fill:#030303;fill-opacity:1;stroke:none;stroke-width:0.447214"
+         d="m 75.690972,57.329 h -40 v 0.1 h 40 z"
+         style="color:#31363b;fill:#030303;fill-opacity:1;stroke:none;stroke-width:0.316228"
          inkscape:label="#path2992" />
     </g>
   </g>
