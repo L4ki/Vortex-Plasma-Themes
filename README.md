@@ -815,5 +815,18 @@ Plasma Theme
 
 Update icon: zoom.svg
 
+Changelog: 28.07.2022.
+----------------------
+
+Icons
+------
+
+Added new icons: actions 24
+
+
+Plasma Theme
+-------------
+
+Update widget: line.svg
 
 
