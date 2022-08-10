@@ -829,4 +829,18 @@ Plasma Theme
 
 Update widget: line.svg
 
+Changelog: 10.08.2022.
+----------------------
+
+Icons
+------
+
+Added new icons: actions 16
+
+
+Plasma Theme
+-------------
+
+Update widget: calendar.svg
+
 
