@@ -843,4 +843,18 @@ Plasma Theme
 
 Update widget: calendar.svg
 
+Changelog: 17.08.2022.
+----------------------
+
+Icons
+------
+
+Added new icons: actions 22
+
+
+Plasma Theme
+-------------
+
+Update widget: listitem.svg, slider.svg, bar_meter_horizontal.svg, bar_meter_vertical.svg, plasmoidheading.svg
+
 
