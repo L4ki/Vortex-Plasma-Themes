@@ -855,6 +855,6 @@ Added new icons: actions 22
 Plasma Theme
 -------------
 
-Update widget: listitem.svg, slider.svg, bar_meter_horizontal.svg, bar_meter_vertical.svg, plasmoidheading.svg
+Update widgets: listitem.svg, slider.svg, bar_meter_horizontal.svg, bar_meter_vertical.svg, plasmoidheading.svg
 
 
