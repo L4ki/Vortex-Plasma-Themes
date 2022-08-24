@@ -857,4 +857,18 @@ Plasma Theme
 
 Update widgets: listitem.svg, slider.svg, bar_meter_horizontal.svg, bar_meter_vertical.svg, plasmoidheading.svg
 
+Changelog: 24.08.2022.
+----------------------
+
+Icons
+------
+
+Update icons: places
+
+
+Plasma Theme
+-------------
+
+Update widget: tasks.svg
+
 
