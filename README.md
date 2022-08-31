@@ -872,3 +872,18 @@ Plasma Theme
 Update widget: tasks.svg
 
 
+Changelog: 31.08.2022.
+----------------------
+
+Icons
+------
+
+Added new icons icons: actions 24
+
+
+Plasma Theme
+-------------
+
+Update icon: system.svg
+
+
