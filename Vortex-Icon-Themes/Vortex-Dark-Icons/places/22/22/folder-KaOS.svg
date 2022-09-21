@@ -3,7 +3,7 @@
    viewBox="0 0 22 22"
    version="1.1"
    id="svg6"
-   sodipodi:docname="folder-Manjaro.svg"
+   sodipodi:docname="folder-KaOS.svg"
    inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -36,9 +36,9 @@
      inkscape:window-height="1002"
      id="namedview8"
      showgrid="true"
-     inkscape:zoom="28.545455"
-     inkscape:cx="11.035032"
-     inkscape:cy="11.017516"
+     inkscape:zoom="14.272727"
+     inkscape:cx="-13.872612"
+     inkscape:cy="3.7484077"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -48,7 +48,7 @@
      inkscape:deskcolor="#d1d1d1">
     <inkscape:grid
        type="xygrid"
-       id="grid855" />
+       id="grid864" />
   </sodipodi:namedview>
   <defs
      id="defs3051">
@@ -57,9 +57,26 @@
        id="current-color-scheme">.ColorScheme-Text { color:#eff0f1 }
 </style>
   </defs>
-  <path
-     style="stroke-width:1;fill-opacity:1;fill:currentColor;"
-     d="M 3.357302,3 C 2.882672,3 2.5,3.38272 2.5,3.857264 v 14.28547 c 0,0.474547 0.403632,0.717599 0.857302,0.857267 H 7.4999997 V 7.9999997 H 13.499999 V 3 Z m 11.142697,0 v 16.000001 h 4.142736 c 0.474544,0 0.857264,-0.38272 0.857264,-0.857267 V 3.857264 C 19.499999,3.38272 19.117279,3 18.642735,3 Z M 3.5,4 h 8.999999 V 6.9999997 H 7.4999997 a 1.0000998,1.0000998 0 0 0 -0.9999997,1 V 18.000001 H 3.54687 c -0.0193,-0.016 -0.03578,-0.016 -0.0463,-0.01997 z m 11.999999,0 h 3 v 14.000001 h -3 z M 8.4999994,8.9999994 V 19.000001 H 13.499999 V 8.9999994 Z m 1,1.0000006 h 2.9999996 v 8.000001 H 9.4999994 Z"
-     id="path4-3"
-     class="ColorScheme-Text" />
+  <g
+     transform="matrix(0.66667777,0,0,0.66667775,-222.85962,-343.17002)"
+     fill="#4d4d4d"
+     fill-rule="evenodd"
+     id="g8-3"
+     style="fill:#eff0f1;fill-opacity:1">
+    <path
+       d="m 363.98,540.15 c -3.974,-3.795 -11.971,-10.05 -18.05,-8.134 -3.398,1.072 -5.04,4.17 -1.173,4.239 7.898,0.142 11.77,-0.416 19.224,3.895"
+       id="path2-6"
+       style="fill-opacity:1;fill:currentColor;"
+       class="ColorScheme-Text" />
+    <path
+       d="m 342.16,536.15 c 1.285,-5.337 4.619,-14.919 10.773,-16.589 3.438,-0.934 6.503,0.782 3.284,2.932 -6.565,4.385 -10.124,6.01 -14.06,13.657"
+       id="path4-3"
+       style="fill-opacity:1;fill:currentColor;"
+       class="ColorScheme-Text" />
+    <path
+       d="m 345.48,543.3 c -3.523,-4.215 -9.234,-12.604 -6.903,-18.53 1.302,-3.311 4.51,-4.741 4.317,-0.88 -0.394,7.875 -1.216,11.693 2.586,19.409"
+       id="path6"
+       style="fill-opacity:1;fill:currentColor;"
+       class="ColorScheme-Text" />
+  </g>
 </svg>
