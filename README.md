@@ -915,5 +915,19 @@ Plasma Theme
 
 Update icon: software.svg
 
+Changelog: 21.09.2022.
+----------------------
+
+Icons
+------
+
+Update icons: places
+
+
+Plasma Theme
+-------------
+
+Update widget: actionbutton.svg
+
 
 
