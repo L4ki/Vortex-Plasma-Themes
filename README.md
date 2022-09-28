@@ -943,5 +943,10 @@ Plasma Theme
 
 Update icons: qbittorrent.svg, skype.svg
 
+GTK-Theme
+---------
+
+Update: assets, gtk.css
+
 
 
