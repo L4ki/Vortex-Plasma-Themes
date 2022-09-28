@@ -929,5 +929,19 @@ Plasma Theme
 
 Update widget: actionbutton.svg
 
+Changelog: 28.09.2022.
+----------------------
+
+Icons
+------
+
+Added new icons: apps 48
+
+
+Plasma Theme
+-------------
+
+Update icons: qbittorrent.svg, skype.svg
+
 
 
