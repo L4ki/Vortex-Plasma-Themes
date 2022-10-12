@@ -961,5 +961,18 @@ Plasma Theme
 
 Update widget: configuration-icons.svg
 
+Changelog: 12.10.2022.
+----------------------
+
+Icons
+------
+
+Added new icons: apps
+
+Plasma Theme
+-------------
+
+Added new icons: krusader
+
 
 
