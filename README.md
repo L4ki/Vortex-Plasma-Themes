@@ -974,5 +974,18 @@ Plasma Theme
 
 Added new icons: krusader
 
+Changelog: 20.10.2022.
+----------------------
+
+Icons
+------
+
+Added new icons: apps
+
+Plasma Theme
+-------------
+
+Update widget: scrollbar.svg
+
 
 
