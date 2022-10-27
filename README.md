@@ -987,5 +987,18 @@ Plasma Theme
 
 Update widget: scrollbar.svg
 
+Changelog: 27.10.2022.
+----------------------
+
+Icons
+------
+
+Added new icons: apps
+
+Plasma Theme
+-------------
+
+Update widget: action-overlays.svg
+
 
 
