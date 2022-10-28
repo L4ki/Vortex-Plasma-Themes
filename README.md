@@ -1000,5 +1000,10 @@ Plasma Theme
 
 Update widget: action-overlays.svg
 
+GTK-Theme
+--------
+
+Update assets icons
+
 
 
