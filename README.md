@@ -1045,4 +1045,18 @@ Plasma Theme
 Added icon: nulloy.svg
 
 
+Changelog: 30.11.2022.
+----------------------
+
+Icons
+------
+
+Added new icons: apps 32, 48
+
+Plasma Theme
+-------------
+
+Added icons: office.svg, plasma.svg
+
+
 
