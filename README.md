@@ -1097,5 +1097,18 @@ Plasma Theme
 
 Added icon: yakuake.svg
 
+Changelog: 28.12.2022.
+----------------------
+
+Icons
+------
+
+Added new icons: apps 32
+
+Plasma Theme
+-------------
+
+Added icons: sirikali.svg, internet.svg
+
 
 
