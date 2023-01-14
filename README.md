@@ -1132,4 +1132,18 @@ Plasma Theme
 Added icons: sirikali.svg, internet.svg
 
 
+Changelog: 14.01.2023.
+----------------------
+
+Icons
+------
+
+Added new icons: apps 32, 48
+
+Plasma Theme
+-------------
+
+Added icon: cadenca.svg
+
+
 
