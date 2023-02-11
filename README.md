@@ -1145,7 +1145,7 @@ Plasma Theme
 
 Added icon: cadenca.svg
 
-hangelog: 28.01.2023.
+Changelog: 28.01.2023.
 ----------------------
 
 Icons
@@ -1157,6 +1157,19 @@ Plasma Theme
 -------------
 
 Added icon: krfb.svg
+
+Changelog: 11.02.2023.
+----------------------
+
+Icons
+------
+
+Added new icons: apps 32, 48
+
+Plasma Theme
+-------------
+
+Added icon: ring.svg
 
 
 
