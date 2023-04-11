@@ -1182,7 +1182,7 @@ Added new icons: apps 32, 48
 Plasma Theme
 -------------
 
-Update widget: ctionbutton.svg
+Update widget: actionbutton.svg
 
 
 
