@@ -1174,6 +1174,11 @@ Added icon: ring.svg
 Changelog: 11.04.2023.
 ----------------------
 
+GTK Theme
+----------
+
+Update: tab-horz-gap.png, tab-vert-gap.png
+
 Icons
 ------
 
