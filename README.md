@@ -1189,5 +1189,22 @@ Plasma Theme
 
 Update widget: actionbutton.svg
 
+Changelog: 18.04.2023.
+----------------------
+
+GTK Theme
+----------
+
+Update: tab-up-active.png
+
+Icons
+------
+
+Added new icons: apps 32, 48
+
+Plasma Theme
+-------------
+
+Update widget: viewitem.svg
 
 
