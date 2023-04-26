@@ -1207,4 +1207,22 @@ Plasma Theme
 
 Update widget: viewitem.svg
 
+Changelog: 26.04.2023.
+----------------------
+
+GTK Theme
+----------
+
+Added: gtk-4.0
+
+Icons
+------
+
+Added new icons: apps 32, 48
+
+Plasma Theme
+-------------
+
+Update widget: listitem.svg
+
 
