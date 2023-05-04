@@ -1225,4 +1225,21 @@ Plasma Theme
 
 Update widget: listitem.svg
 
+Changelog: 04.05.2023.
+----------------------
+
+GTK Theme
+----------
+
+Update: focus.png
+Icons
+------
+
+Added new icons: apps 32, 48
+
+Plasma Theme
+-------------
+
+Update widget: tasks.svg
+
 
