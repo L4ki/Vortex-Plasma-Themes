@@ -25,7 +25,9 @@ Download: https://www.pling.com/p/1493451
 Screenshot:
 ------------
 
-[![Screenshot-20210317-100450.png](https://i.postimg.cc/wBXn56Kh/Screenshot-20210317-100450.png)](https://postimg.cc/mcrdBWgD)
+![Screenshot_20230427_114511](https://user-images.githubusercontent.com/45247573/236128303-e72ed8ff-2e85-49e6-8b6b-24bcee565ce8.jpg)
+
+![Screenshot_20230427_114949](https://user-images.githubusercontent.com/45247573/236128321-2d08e312-b28c-46ae-8af0-f3976dc0d900.jpg)
 
 
 Changelog: 25.03.2021.
