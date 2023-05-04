@@ -1234,6 +1234,7 @@ GTK Theme
 ----------
 
 Update: focus.png
+
 Icons
 ------
 
