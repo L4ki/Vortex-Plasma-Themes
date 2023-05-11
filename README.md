@@ -1245,4 +1245,22 @@ Plasma Theme
 
 Update widget: tasks.svg
 
+Changelog: 11.05.2023.
+----------------------
+
+GTK Theme
+----------
+
+Update:  frame-notebook.png
+
+Icons
+------
+
+Added new icons: apps 32, 48
+
+Plasma Theme
+-------------
+
+Update widget: containment-controls.svg
+
 
