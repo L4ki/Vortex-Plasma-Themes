@@ -1263,4 +1263,22 @@ Plasma Theme
 
 Update widget: containment-controls.svg
 
+Changelog: 18.05.2023.
+----------------------
+
+GTK Theme
+----------
+
+Update:  gtk-3.0, gtk-4.0
+
+Icons
+------
+
+Added new icons: apps 32, 48
+
+Plasma Theme
+-------------
+
+Added icon: corectrl.svg
+
 
