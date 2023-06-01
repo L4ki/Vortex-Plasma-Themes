@@ -1300,3 +1300,22 @@ Plasma Theme
 Added icon: desktop.svg
 
 
+Changelog: 01.06.2023.
+----------------------
+
+GTK Theme
+----------
+
+Update:  tab-up-active.png
+
+Icons
+------
+
+Added new icons: apps 32, 48
+
+Plasma Theme
+-------------
+
+Added icon: org.rnd2.cpupower_gui.svg
+
+
