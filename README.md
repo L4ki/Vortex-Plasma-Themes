@@ -1306,7 +1306,7 @@ Changelog: 01.06.2023.
 GTK Theme
 ----------
 
-Update:  tab-up-active.png
+Update: tab-up-active.png
 
 Icons
 ------
