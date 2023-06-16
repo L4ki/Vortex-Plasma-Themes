@@ -1336,4 +1336,22 @@ Plasma Theme
 
 Added icon: antimicro.svg
 
+Changelog: 16.06.2023.
+----------------------
+
+GTK Theme
+----------
+
+Update: tab-right-active.png, tab-left-active.png
+
+Icons
+------
+
+Added new icons: apps 32, 48
+
+Plasma Theme
+-------------
+
+Update: metadata.desktop
+
 
