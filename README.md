@@ -1370,6 +1370,24 @@ Added new icons: apps 32, 48
 Plasma Theme
 -------------
 
-UAdded icon: accessories.svg
+Added icon: accessories.svg
+
+Changelog: 30.06.2023.
+----------------------
+
+GTK Theme
+----------
+
+Update: menubar-item-active.png
+
+Icons
+------
+
+Added new icons: apps 32, 48
+
+Plasma Theme
+-------------
+
+Added icon: lutris.svg
 
 
