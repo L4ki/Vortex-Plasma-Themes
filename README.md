@@ -1397,6 +1397,7 @@ GTK Theme
 ----------
 
 Update: gtk-3.0
+
 Icons
 ------
 
