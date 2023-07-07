@@ -1390,4 +1390,21 @@ Plasma Theme
 
 Added icon: lutris.svg
 
+Changelog: 07.07.2023.
+----------------------
+
+GTK Theme
+----------
+
+Update: gtk-3.0
+Icons
+------
+
+Added new icons: apps 32, 48
+
+Plasma Theme
+-------------
+
+Added icon: microphone.svg
+
 
