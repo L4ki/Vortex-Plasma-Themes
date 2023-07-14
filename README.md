@@ -1408,4 +1408,22 @@ Plasma Theme
 
 Added icon: microphone.svg
 
+Changelog: 14.07.2023.
+----------------------
+
+GTK Theme
+----------
+
+Update: checkmark-symbolic.svg
+
+Icons
+------
+
+Added new icons: apps 32, 48
+
+Plasma Theme
+-------------
+
+Added icon: offline.svg
+
 
