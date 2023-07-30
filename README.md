@@ -1445,3 +1445,22 @@ Plasma Theme
 Added icon: onboard.svg
 
 
+Changelog: 30.07.2023.
+----------------------
+
+GTK Theme
+----------
+
+Update: dash-symbolic.svg
+
+Icons
+------
+
+Added new icons: apps 32, 48
+
+Plasma Theme
+-------------
+
+Added icon: process.svg
+
+
