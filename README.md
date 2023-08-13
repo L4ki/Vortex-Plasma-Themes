@@ -1481,4 +1481,22 @@ Plasma Theme
 
 Added widget: monitor.svg
 
+Changelog: 13.08.2023.
+----------------------
+
+GTK Theme
+----------
+
+Update: checkbox-checked-insensitive.png
+
+Icons
+------
+
+Added new icons: apps 32, 48
+
+Plasma Theme
+-------------
+
+Added widget: analog_meter.svg
+
 
