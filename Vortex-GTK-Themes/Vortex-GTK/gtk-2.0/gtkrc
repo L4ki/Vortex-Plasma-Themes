@@ -17,10 +17,15 @@ gtk-color-scheme = "dark_fg_color:#d3dae3\ndark_bg_color:#1f252f"
 gtk-color-scheme = "sidebar_bg:#1f252f"
 gtk-color-scheme = "sidebar_fg:#d3dae3"
 
-gtk-auto-mnemonics = 1
+# Set GTK settings
+gtk-auto-mnemonics  = 1
 gtk-primary-button-warps-slider = 1
 
+# And hand over the control to the theme files
 include "main.rc"
+include "apps.rc"
+include "hacks.rc"
+include "hacks-dark.rc"
 
 # App stylings
 include "apps/chrome.rc"
