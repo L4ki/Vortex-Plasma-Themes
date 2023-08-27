@@ -1518,3 +1518,22 @@ Plasma Theme
 
 Added widget: dragger.svg
 
+
+Changelog: 27.08.2023.
+----------------------
+
+GTK Theme
+----------
+
+Update: gtkrc
+
+Icons
+------
+
+Added new icons: apps 32, 48
+
+Plasma Theme
+-------------
+
+Added widget: media-delegate.svg
+
