@@ -1537,3 +1537,23 @@ Plasma Theme
 
 Added widget: media-delegate.svg
 
+Changelog: 05.09.2023.
+----------------------
+
+GTK Theme
+----------
+
+Update: border.png
+
+Icons
+------
+
+Added new icons: apps 32, 48
+
+Plasma Theme
+-------------
+
+Added icon: image.svg
+
+
+
