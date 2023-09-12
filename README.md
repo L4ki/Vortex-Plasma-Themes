@@ -1555,5 +1555,23 @@ Plasma Theme
 
 Added icon: image.svg
 
+Changelog: 12.09.2023.
+----------------------
+
+GTK Theme
+----------
+
+Update: tab-up-active.png
+
+Icons
+------
+
+Added new icons: apps 32, 48
+
+Plasma Theme
+-------------
+
+Added: wind-arrows.svg
+
 
 
