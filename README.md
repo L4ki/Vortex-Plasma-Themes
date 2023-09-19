@@ -1573,5 +1573,23 @@ Plasma Theme
 
 Added: wind-arrows.svg
 
+Changelog: 19.09.2023.
+----------------------
+
+GTK Theme
+----------
+
+Update: frame-notebook.png
+
+Icons
+------
+
+Added new icons: apps 32, 48
+
+Plasma Theme
+-------------
+
+Added widget: frame.svg
+
 
 
