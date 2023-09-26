@@ -1591,5 +1591,23 @@ Plasma Theme
 
 Added widget: frame.svg
 
+Changelog: 26.09.2023.
+----------------------
+
+GTK Theme
+----------
+
+Update: frame-inline.png
+
+Icons
+------
+
+Added new icons: apps 32, 48
+
+Plasma Theme
+-------------
+
+Added widget: margins-highlight.svg
+
 
 
