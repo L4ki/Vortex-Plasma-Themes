@@ -1610,4 +1610,23 @@ Plasma Theme
 Added widget: margins-highlight.svg
 
 
+Changelog: 03.10.2023.
+----------------------
+
+GTK Theme
+----------
+
+Update: menu-border.png
+
+Icons
+------
+
+Added new icons: apps 32, 48
+
+Plasma Theme
+-------------
+
+Added widget: menubaritem.svg
+
+
 
