@@ -1682,4 +1682,22 @@ Plasma Theme
 
 Added icon: quota.svg
 
+Changelog: 04.11.2023.
+----------------------
+
+GTK Theme
+----------
+
+Update: gtkrc
+
+Icons
+------
+
+Added new icons: apps 32, 48
+
+Plasma Theme
+-------------
+
+Added icon: strawberry.svg
+
 
