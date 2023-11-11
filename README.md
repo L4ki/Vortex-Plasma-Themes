@@ -1700,4 +1700,22 @@ Plasma Theme
 
 Added icon: strawberry.svg
 
+Changelog: 11.11.2023.
+----------------------
+
+GTK Theme
+----------
+
+Update: treeview-separator-ltr.png
+
+Icons
+------
+
+Added new icons: apps 32, 48
+
+Plasma Theme
+-------------
+
+Update widget: panel-background.svg
+
 
