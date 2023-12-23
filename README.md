@@ -1814,4 +1814,27 @@ Aurorae Themes
 
 Update: decoration.svg
 
+Changelog: 23.12.2023.
+----------------------
+
+GTK Theme
+----------
+
+Update: checkbox-checked.png
+
+Icons
+------
+
+Added new icons: apps 32, 48
+
+Plasma Theme
+-------------
+
+Added widget: picker.svg
+
+Aurorae Themes
+--------------
+
+Update: shade.svg
+
 
