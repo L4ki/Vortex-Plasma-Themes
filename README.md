@@ -1861,3 +1861,16 @@ Aurorae Themes
 Update: close.svg
 
 
+Changelog: 11.01.2024.
+----------------------
+
+Icons
+------
+
+Added new icons: apps 48
+
+Plasma Theme
+-------------
+
+Added widget: plot-background.svg
+
