@@ -1874,3 +1874,16 @@ Plasma Theme
 
 Added widget: plot-background.svg
 
+Changelog: 21.01.2024.
+----------------------
+
+Icons
+------
+
+Added new icons: apps 48
+
+Plasma Theme
+-------------
+
+Added icon: solaar.svg
+
