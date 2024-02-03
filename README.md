@@ -32,7 +32,7 @@ Screenshot:
 _____________________________________________________________________________________________________________________________________
 
 
-Changelog: 28.01.2024.
+Changelog: 04.02.2024.
 ----------------------
 
 Icons
@@ -43,11 +43,6 @@ Added new icons: apps 48
 Plasma Theme
 -------------
 
-Added widget: radiobutton.svg
-
-GTK Theme
----------
-
-Update: gtk-4.0
+Update: colors
 
 
