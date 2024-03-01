@@ -32,7 +32,7 @@ Screenshot:
 _____________________________________________________________________________________________________________________________________
 
 
-Changelog: 20.02.2024.
+Changelog: 01.03.2024.
 ----------------------
 
 Icons
@@ -43,6 +43,6 @@ Added new icons: apps 48
 Plasma Theme
 -------------
 
-Added icon: sogoupinyin.svg
+Added widget: branding.svg
 
 
