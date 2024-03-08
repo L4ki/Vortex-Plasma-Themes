@@ -32,7 +32,7 @@ Screenshot:
 _____________________________________________________________________________________________________________________________________
 
 
-Changelog: 01.03.2024.
+Changelog: 08.03.2024.
 ----------------------
 
 Icons
@@ -42,7 +42,5 @@ Added new icons: apps 48
 
 Plasma Theme
 -------------
-
-Added widget: branding.svg
-
+Update widget: switch.svg
 
