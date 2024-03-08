@@ -35,6 +35,11 @@ ________________________________________________________________________________
 Changelog: 08.03.2024.
 ----------------------
 
+GTK Theme
+---------
+
+Update: main.rc
+
 Icons
 ------
 
@@ -42,5 +47,6 @@ Added new icons: apps 48
 
 Plasma Theme
 -------------
+
 Update widget: switch.svg
 
