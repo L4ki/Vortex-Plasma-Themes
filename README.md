@@ -32,13 +32,8 @@ Screenshot:
 _____________________________________________________________________________________________________________________________________
 
 
-Changelog: 08.03.2024.
+Changelog: 21.04.2024.
 ----------------------
-
-GTK Theme
----------
-
-Update: main.rc
 
 Icons
 ------
@@ -48,5 +43,14 @@ Added new icons: apps 48
 Plasma Theme
 -------------
 
-Update widget: switch.svg
+Update: metadata.desktop
+
+Added
+-----
+
+1. Aurorae Themes For Plasma 6
+2. SDDM Theme For Plasma 6
+3. Splashscreen For Plasma 6
+4. Global Theme For Plasma 6
+
 
