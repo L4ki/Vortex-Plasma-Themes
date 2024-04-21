@@ -20,13 +20,13 @@
         "Website": "https://github.com/L4ki/Vortex-Plasma-Themes"
     },
     "X-KPackage-Dependencies": [
-        "kns://window-decorations.knsrc/api.kde-look.org/2133854",
-        "kns://window-decorations.knsrc/api.kde-look.org/2133852",
+        "kns://window-decorations.knsrc/api.kde-look.org/2148696",
+        "kns://window-decorations.knsrc/api.kde-look.org/2148694",
         "kns://colorschemes.knsrc/api.kde-look.org/1493428",
         "kns://icons.knsrc/api.kde-look.org/1493433",
         "kns://icons.knsrc/api.kde-look.org/1281798",
         "kns://plasma-themes.knsrc/api.kde-look.org/1493451",
-        "kns://sddmtheme.knsrc/api.kde-look.org/2140584",
+        "kns://sddmtheme.knsrc/api.kde-look.org/2148693",
         "kns://wallpaper.knsrc/api.kde-look.org/1493412",
         "kns://wallpaper.knsrc/api.kde-look.org/1493413"
     ]
