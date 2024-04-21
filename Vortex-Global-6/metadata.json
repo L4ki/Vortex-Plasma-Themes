@@ -1,0 +1,33 @@
+{
+    "KPackageStructure": "Plasma/LookAndFeel",
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "l4k1987@gmail.com",
+                "Name": "l4k1"
+            }
+        ],
+        "Category": "Global Themes (Plasma 6)",
+        "ServiceTypes": [
+            "Plasma/LookAndFeel"
+        ],
+        "EnabledByDefault": true,
+        "Name": "Vortex-Global-6",
+        "Description": "Vortex Global Theme by l4k1",
+        "Id": "Vortex-Global-6",
+        "Version": "1.0",
+        "License": "GPLv3",
+        "Website": "https://github.com/L4ki/Vortex-Plasma-Themes"
+    },
+    "X-KPackage-Dependencies": [
+        "kns://window-decorations.knsrc/api.kde-look.org/2133854",
+        "kns://window-decorations.knsrc/api.kde-look.org/2133852",
+        "kns://colorschemes.knsrc/api.kde-look.org/1493428",
+        "kns://icons.knsrc/api.kde-look.org/1493433",
+        "kns://icons.knsrc/api.kde-look.org/1281798",
+        "kns://plasma-themes.knsrc/api.kde-look.org/1493451",
+        "kns://sddmtheme.knsrc/api.kde-look.org/2140584",
+        "kns://wallpaper.knsrc/api.kde-look.org/1493412",
+        "kns://wallpaper.knsrc/api.kde-look.org/1493413"
+    ]
+}
