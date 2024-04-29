@@ -43,9 +43,9 @@ Added new icons: apps 48
 Plasma Theme
 -------------
 
-Update widget:busywidget.svg
+Update widget: busywidget.svg
 
-Aurotae Theme For Plasma 5
+Aurorae Theme For Plasma 5
 --------------------------
 
 update: metadata.desktop
