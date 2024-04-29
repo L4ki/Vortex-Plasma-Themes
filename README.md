@@ -32,7 +32,7 @@ Screenshot:
 _____________________________________________________________________________________________________________________________________
 
 
-Changelog: 21.04.2024.
+Changelog: 29.04.2024.
 ----------------------
 
 Icons
@@ -43,10 +43,15 @@ Added new icons: apps 48
 Plasma Theme
 -------------
 
-Update: metadata.desktop
+Update widget:busywidget.svg
 
-Added
------
+Aurotae Theme For Plasma 5
+--------------------------
+
+update: metadata.desktop
+
+Added 21.04.24
+--------------
 
 1. Aurorae Themes For Plasma 6
 2. SDDM Theme For Plasma 6
