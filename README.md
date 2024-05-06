@@ -32,7 +32,7 @@ Screenshot:
 _____________________________________________________________________________________________________________________________________
 
 
-Changelog: 29.04.2024.
+Changelog: 06.05.2024.
 ----------------------
 
 Icons
@@ -43,7 +43,7 @@ Added new icons: apps 48
 Plasma Theme
 -------------
 
-Update widget: busywidget.svg
+Update widget: action-overlays.svg
 
 Aurorae Theme For Plasma 5
 --------------------------
