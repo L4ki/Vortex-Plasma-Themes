@@ -32,13 +32,13 @@ Screenshot:
 _____________________________________________________________________________________________________________________________________
 
 
-Changelog: 20.05.2024.
+Changelog: 28.05.2024.
 ----------------------
 
 GTK Theme
 ----------
 
-Update: gtkrc
+Update: hacks.rc
 
 Icons
 ------
@@ -48,7 +48,7 @@ Added new icons: apps 48
 Plasma Theme
 -------------
 
-Update widget: menubaritem.svg
+Update widget: slider.svg
 
 Aurorae Theme For Plasma 5
 --------------------------
