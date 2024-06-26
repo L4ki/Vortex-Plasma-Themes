@@ -32,13 +32,13 @@ Screenshot:
 _____________________________________________________________________________________________________________________________________
 
 
-Changelog: 11.06.2024.
+Changelog: 26.06.2024.
 ----------------------
 
 GTK Theme
 ----------
 
-Update: gtk-4.0
+Update: gtkrc
 
 Icons
 ------
@@ -48,19 +48,12 @@ Added new icons: apps 48
 Plasma Theme
 -------------
 
-Update widget: margins-highlight.svg
+Update widget: bar_meter_horizontal.svg
 
 Aurorae Theme For Plasma 5
 --------------------------
 
 update: metadata.desktop
 
-Added 21.04.24
---------------
-
-1. Aurorae Themes For Plasma 6
-2. SDDM Theme For Plasma 6
-3. Splashscreen For Plasma 6
-4. Global Theme For Plasma 6
 
 
