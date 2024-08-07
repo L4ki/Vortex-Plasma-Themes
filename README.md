@@ -32,23 +32,23 @@ Screenshot:
 _____________________________________________________________________________________________________________________________________
 
 
-Changelog: 31.07.2024.
+Changelog: 07.08.2024.
 ----------------------
 
 GTK Theme
 ----------
 
-Update: hacks.rc
+Update: hacks-dark.rc
 
 Icons
 ------
 
-Update icons: actions
+Added new icons: apps 48
 
 Plasma Theme
 -------------
 
-Update widget: tabbar.svg
+Update widget: pager.svg
 
 Aurorae Theme For Plasma 5
 --------------------------
