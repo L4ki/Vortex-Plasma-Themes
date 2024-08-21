@@ -32,23 +32,25 @@ Screenshot:
 _____________________________________________________________________________________________________________________________________
 
 
-Changelog: 14.08.2024.
+Changelog: 21.08.2024.
 ----------------------
 
 GTK Theme
 ----------
 
-Update: gtk-4.0
+Update: gtkrc
 
 Icons
 ------
 
-Added new icons: apps 48
+Light Icons:Added new icons: apps 48
+
+Dark Icons: Update icons (places)
 
 Plasma Theme
 -------------
 
-Update widget: lineedit.svg
+Update widget: panel-background.svg
 
 Aurorae Theme For Plasma 5
 --------------------------
