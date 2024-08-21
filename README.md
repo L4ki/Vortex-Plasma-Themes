@@ -43,7 +43,7 @@ Update: gtkrc
 Icons
 ------
 
-Light Icons:Added new icons: apps 48
+Light Icons: Added new icons: apps 48
 
 Dark Icons: Update icons (places)
 
