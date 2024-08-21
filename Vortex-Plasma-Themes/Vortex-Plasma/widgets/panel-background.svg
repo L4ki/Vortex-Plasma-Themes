@@ -6,7 +6,7 @@
    height="64"
    viewBox="0 0 157 64"
    width="157"
-   inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25)"
    sodipodi:docname="panel-background.svg"
    version="1.1"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
@@ -27,11 +27,11 @@
      inkscape:current-layer="svg2"
      inkscape:showpageshadow="2"
      inkscape:deskcolor="#d1d1d1"
-     inkscape:zoom="4.0009155"
-     inkscape:cx="55.987186"
-     inkscape:cy="53.237815"
+     inkscape:zoom="2.8290745"
+     inkscape:cx="89.42854"
+     inkscape:cy="37.821556"
      inkscape:window-width="1920"
-     inkscape:window-height="991"
+     inkscape:window-height="996"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1">
@@ -49,7 +49,16 @@
      id="defs15">
     <style
        type="text/css"
-       id="current-color-scheme">&#10;            .ColorScheme-Text {&#10;                color:#232629;&#10;                stop-color:#232629;&#10;            }&#10;            .ColorScheme-Background {&#10;                color:#eff0f1;&#10;                stop-color:#eff0f1;&#10;            }&#10;        </style>
+       id="current-color-scheme">
+            .ColorScheme-Text {
+                color:#232629;
+                stop-color:#232629;
+            }
+            .ColorScheme-Background {
+                color:#eff0f1;
+                stop-color:#eff0f1;
+            }
+        </style>
     <linearGradient
        id="shadow-side"
        gradientUnits="userSpaceOnUse">
@@ -544,56 +553,56 @@
   <rect
      id="shadow-hint-top-margin"
      height="10"
-     style="fill:#ff00ff;opacity:0.01"
+     style="fill:#ff00ff;opacity:1"
      width="2"
      x="76"
      y="0" />
   <rect
      id="shadow-hint-bottom-margin"
      height="10"
-     style="fill:#ff00ff;opacity:0.01"
+     style="fill:#ff00ff;opacity:1"
      width="2"
      x="76"
      y="54" />
   <rect
      id="shadow-hint-right-margin"
      height="2"
-     style="fill:#ff00ff;opacity:0.01"
+     style="fill:#ff00ff;opacity:1"
      width="10"
      x="101"
      y="33" />
   <rect
      id="shadow-hint-left-margin"
      height="2"
-     style="fill:#ff00ff;opacity:0.01"
+     style="fill:#ff00ff;opacity:1"
      width="10"
      x="47"
      y="29" />
   <rect
      id="shadow-hint-top-inset"
      height="10"
-     style="fill:#00ff00;opacity:0.01"
+     style="fill:#00ff00;opacity:1"
      width="2"
      x="80"
      y="0" />
   <rect
      id="shadow-hint-bottom-inset"
      height="10"
-     style="fill:#00ff00;opacity:0.01"
+     style="fill:#00ff00;opacity:1"
      width="2"
      x="80"
      y="54" />
   <rect
      id="shadow-hint-right-inset"
      height="2"
-     style="fill:#00ff00;opacity:0.01"
+     style="fill:#00ff00;opacity:1"
      width="10"
      x="101"
      y="29" />
   <rect
      id="shadow-hint-left-inset"
      height="2"
-     style="fill:#00ff00;opacity:0.01"
+     style="fill:#00ff00;opacity:1"
      width="10"
      x="47"
      y="33" />
