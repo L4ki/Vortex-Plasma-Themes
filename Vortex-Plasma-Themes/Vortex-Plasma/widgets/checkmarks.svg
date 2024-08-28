@@ -4,7 +4,7 @@
    height="33.748699"
    id="svg2"
    sodipodi:version="0.32"
-   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25)"
    sodipodi:docname="checkmarks.svg"
    version="1.0"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
@@ -131,13 +131,13 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="11.313709"
-     inkscape:cx="17.766058"
-     inkscape:cy="12.551145"
+     inkscape:cx="17.766057"
+     inkscape:cy="26.69328"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="1920"
-     inkscape:window-height="1006"
+     inkscape:window-height="992"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -150,16 +150,20 @@
      inkscape:document-rotation="0"
      inkscape:lockguides="false"
      inkscape:pagecheckerboard="0"
-     inkscape:showpageshadow="false">
+     inkscape:showpageshadow="false"
+     inkscape:deskcolor="#cccccc">
     <inkscape:grid
        type="xygrid"
        id="grid3774"
        empspacing="5"
-       visible="true"
+       visible="false"
        enabled="true"
        snapvisiblegridlinesonly="true"
        originx="-19.626049"
-       originy="0.42133374" />
+       originy="0.42133374"
+       spacingy="1"
+       spacingx="1"
+       units="px" />
   </sodipodi:namedview>
   <metadata
      id="metadata7">
