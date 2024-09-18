@@ -32,13 +32,13 @@ Screenshot:
 _____________________________________________________________________________________________________________________________________
 
 
-Changelog: 11.09.2024.
+Changelog: 18.09.2024.
 ----------------------
 
 GTK Theme
 ----------
 
-Update: apps.rc
+Update: gtk-3.0
 
 Icons
 ------
@@ -48,7 +48,7 @@ Added new icons: apps 48
 Plasma Theme
 -------------
 
-Update widget: tooltip.svg
+Update widget: scrollbar.svg
 
 Aurorae Theme For Plasma 5
 --------------------------
