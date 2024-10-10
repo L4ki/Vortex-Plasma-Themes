@@ -32,23 +32,23 @@ Screenshot:
 _____________________________________________________________________________________________________________________________________
 
 
-Changelog: 02.10.2024.
+Changelog: 10.10.2024.
 ----------------------
 
 GTK Theme
 ----------
 
-Update: hacks-dark.rc
+Update: gtkrc
 
 Icons
 ------
 
-Added new icons: actions
+Added new icons: apps 48
 
 Plasma Theme
 -------------
 
-Update widget: line.svg
+Update widget: actionbutton.svg
 
 Aurorae Theme For Plasma 5
 --------------------------
