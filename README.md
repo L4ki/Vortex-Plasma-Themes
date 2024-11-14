@@ -32,13 +32,13 @@ Screenshot:
 _____________________________________________________________________________________________________________________________________
 
 
-Changelog: 07.11.2024.
+Changelog: 14.11.2024.
 ----------------------
 
 GTK Theme
 ----------
 
-Update: hacks-dark.rc
+Update: gtk-3.0
 
 Icons
 ------
@@ -48,7 +48,7 @@ Added new icons: apps 48
 Plasma Theme
 -------------
 
-Update widget: translucentbackground.svg
+Update widget: arrows.svg
 
 Aurorae Theme For Plasma 5
 --------------------------
