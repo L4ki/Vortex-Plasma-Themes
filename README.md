@@ -32,23 +32,23 @@ Screenshot:
 _____________________________________________________________________________________________________________________________________
 
 
-Changelog: 28.11.2024.
+Changelog: 05.12.2024.
 ----------------------
 
 GTK Theme
 ----------
 
-Update: main.rc
+Update: gtk-4.0
 
 Icons
 ------
 
-Update icons: apps 48
+Update: icon-theme.cache
 
 Plasma Theme
 -------------
 
-Update widget: menubaritem.svg
+Update widget: containment-controls.svg
 
 Aurorae Theme For Plasma 5
 --------------------------
