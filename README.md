@@ -32,13 +32,13 @@ Screenshot:
 _____________________________________________________________________________________________________________________________________
 
 
-Changelog: 12.12.2024.
+Changelog: 19.12.2024.
 ----------------------
 
 GTK Theme
 ----------
 
-Update: styles
+Update: apps.rc
 
 Icons
 ------
@@ -48,7 +48,7 @@ Added new icons: apps 48
 Plasma Theme
 -------------
 
-Update widget: plot-background.svg
+Update widget: picker.svg
 
 Aurorae Theme For Plasma 5
 --------------------------
