@@ -32,13 +32,13 @@ Screenshot:
 _____________________________________________________________________________________________________________________________________
 
 
-Changelog: 26.12.2024.
+Changelog: 02.01.2025.
 ----------------------
 
 GTK Theme
 ----------
 
-Update: gtkrc
+Update: hacks-dark
 
 Icons
 ------
@@ -50,10 +50,7 @@ Plasma Theme
 
 Update widget: line.svg
 
-Aurorae Theme For Plasma 5
---------------------------
 
-update: metadata.desktop
 
 
 
