@@ -32,13 +32,13 @@ Screenshot:
 _____________________________________________________________________________________________________________________________________
 
 
-Changelog: 23.01.2025.
+Changelog: 30.01.2025.
 ----------------------
 
 GTK Theme
 ----------
 
-Update: main.rc
+Update: gtk-4.0
 
 Icons
 ------
@@ -48,7 +48,7 @@ Added new icons: apps 48
 Plasma Theme
 -------------
 
-Update widget: line.svg
+Update: metadata.desktop
 
 
 
