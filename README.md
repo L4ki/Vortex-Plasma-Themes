@@ -32,18 +32,18 @@ Screenshot:
 _____________________________________________________________________________________________________________________________________
 
 
-Changelog: 03.04.2025.
+Changelog: 10.04.2025.
 ----------------------
 
 GTK Theme
 ----------
 
-Update: apps.rc
+Update: gtkrc
 
 Icons
 ------
 
-Added new icons: apps 22
+Update icons: actons 32
 
 Plasma Theme
 -------------
