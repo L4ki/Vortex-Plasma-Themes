@@ -5,7 +5,7 @@
    version="1.1"
    id="svg140"
    sodipodi:docname="menubaritem.svg"
-   inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
+   inkscape:version="1.4.1 (unknown)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -21,10 +21,10 @@
      showgrid="false"
      inkscape:showpageshadow="true"
      inkscape:zoom="4.2669041"
-     inkscape:cx="70.191406"
+     inkscape:cx="70.308587"
      inkscape:cy="35.388656"
      inkscape:window-width="1920"
-     inkscape:window-height="994"
+     inkscape:window-height="998"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -53,10 +53,11 @@
      id="normal-center"
      fill="transparent"
      d="M 30,8 V 30 H 8 V 8 Z"
-     style="fill:#24273a;fill-opacity:1" />
+     style="fill:#24273a;fill-opacity:1;opacity:0.01" />
   <g
      id="normal-left"
-     transform="translate(2,2)">
+     transform="translate(2,2)"
+     style="opacity:0.01">
     <path
        style="opacity:0.00100002"
        d="M 0,6 H 6 V 28 H 0 Z"
@@ -69,7 +70,8 @@
   </g>
   <g
      id="normal-topleft"
-     transform="translate(2,2)">
+     transform="translate(2,2)"
+     style="opacity:0.01">
     <path
        style="opacity:0.00100002"
        d="M 0,0 H 6 V 6 H 0 Z"
@@ -82,7 +84,8 @@
   </g>
   <g
      id="normal-right"
-     transform="translate(2,2)">
+     transform="translate(2,2)"
+     style="opacity:0.01">
     <path
        style="opacity:0.00100002"
        d="m 28,6 h 6 v 22 h -6 z"
@@ -95,7 +98,8 @@
   </g>
   <g
      id="normal-top"
-     transform="translate(2,2)">
+     transform="translate(2,2)"
+     style="opacity:0.01">
     <path
        style="opacity:0.00100002"
        d="M 28,0 V 6 H 6 V 0 Z"
@@ -108,7 +112,8 @@
   </g>
   <g
      id="normal-bottom"
-     transform="translate(2,2)">
+     transform="translate(2,2)"
+     style="opacity:0.01">
     <path
        style="opacity:0.00100002"
        d="m 28,28 v 6 H 6 v -6 z"
@@ -121,7 +126,8 @@
   </g>
   <g
      id="normal-bottomright"
-     transform="translate(2,2)">
+     transform="translate(2,2)"
+     style="opacity:0.01">
     <path
        style="opacity:0.00100002"
        d="m 28,28 h 6 v 6 h -6 z"
@@ -134,7 +140,8 @@
   </g>
   <g
      id="normal-topright"
-     transform="translate(2,2)">
+     transform="translate(2,2)"
+     style="opacity:0.01">
     <path
        style="opacity:0.00100002"
        d="m 28,0 h 6 v 6 h -6 z"
@@ -147,7 +154,8 @@
   </g>
   <g
      id="normal-bottomleft"
-     transform="translate(2,2)">
+     transform="translate(2,2)"
+     style="opacity:0.01">
     <path
        style="opacity:0.00100002"
        d="m 0,28 h 6 v 6 H 0 Z"
