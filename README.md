@@ -32,13 +32,13 @@ Screenshot:
 _____________________________________________________________________________________________________________________________________
 
 
-Changelog: 05.06.2025.
+Changelog: 12.06.2025.
 ----------------------
 
 GTK Theme
 ----------
 
-Update: gtkrc
+Update: hacks-dark
 
 Icons
 ------
@@ -48,8 +48,7 @@ Update icons: apps 48
 Plasma Theme
 -------------
 
-Update widget: menubaritem.svg
-
+Update: metadata.desktop
 
 
 
