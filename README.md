@@ -31,18 +31,18 @@ Screenshot:
 
 _____________________________________________________________________________________________________________________________________
 
-Changelog: 16.10.2025.
+Changelog: 23.10.2025.
 ----------------------
 
 GTK Theme
 ----------
 
-Update: hacks.rc
+Update: main.rc
 
 Icons
 ------
 
-Update icons: apps 32, 48
+Update icons: apps 48
 
 Plasma Theme
 -------------
