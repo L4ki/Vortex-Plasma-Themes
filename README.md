@@ -31,18 +31,18 @@ Screenshot:
 
 _____________________________________________________________________________________________________________________________________
 
-Changelog: 30.10.2025.
+Changelog: 06.11.2025.
 ----------------------
 
 GTK Theme
 ----------
 
-Update: gtk-4.0
+Update: styles
 
 Icons
 ------
 
-Update icons: actions 22
+Update icons: apps 22
 
 Plasma Theme
 -------------
