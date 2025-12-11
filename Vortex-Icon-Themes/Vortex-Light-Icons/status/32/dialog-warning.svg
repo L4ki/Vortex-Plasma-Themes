@@ -1,20 +1,92 @@
-<svg viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg">
-    <linearGradient id="a" x2="0" y1="43.999989" y2="6.999989" gradientTransform="matrix(-.7567567 0 0 .7567567 35.297299 -3.297288)" gradientUnits="userSpaceOnUse">
-        <stop stop-color="#faae2a" offset="0"/>
-        <stop stop-color="#ffc35a" offset="1"/>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="32"
+   height="32"
+   version="1.1"
+   id="svg15"
+   sodipodi:docname="dialog-warning.svg"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview17"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="7.375"
+     inkscape:cx="16.067797"
+     inkscape:cy="16.067797"
+     inkscape:window-width="1920"
+     inkscape:window-height="1002"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg15" />
+  <defs
+     id="defs7">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient820">
+      <stop
+         style="stop-color:#d08770;stop-opacity:1;"
+         offset="0"
+         id="stop816" />
+      <stop
+         style="stop-color:#ebcb8b;stop-opacity:1;"
+         offset="1"
+         id="stop818" />
     </linearGradient>
-    <linearGradient id="b" x1="7.923077" x2="23" y1="5.76923" y2="20.846154" gradientUnits="userSpaceOnUse">
-        <stop stop-color="#292c2f" offset="0"/>
-        <stop stop-opacity="0" offset="1"/>
+    <linearGradient
+       id="b"
+       x1="44.424"
+       x2="44.424"
+       y1="60.535"
+       y2="-5.497"
+       gradientTransform="translate(-6.723 1.226) scale(.50174)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         stop-color="#634215"
+         offset="0"
+         id="stop2" />
+      <stop
+         stop-color="#93700d"
+         offset="1"
+         id="stop4" />
     </linearGradient>
-    <linearGradient id="c" x2="0" y1="29.999973" y2="2" gradientTransform="matrix(1.0769231 0 0 -1.0769231 -1.230769 27.307692)" gradientUnits="userSpaceOnUse">
-        <stop stop-color="#fcd994" offset="0"/>
-        <stop stop-color="#fff6e1" offset="1"/>
-    </linearGradient>
-    <g stroke-width=".538462">
-        <path d="m30 2v20h-14l-7 7v-7h-7v-20z" fill="url(#a)" fill-rule="evenodd"/>
-        <path d="m16 4 9 15h-18l6 6 3-3h14v-4z" fill="url(#b)" fill-rule="evenodd" opacity=".2"/>
-        <path d="m16 4-9 15h18zm1e-6 1.9616579 7.235006 12.056642h-14.470012zm-1.000001 4.0271567v5.0111854l2 0.01118v-5.01118zm0 6.0111854v1h2v-1z" fill="url(#c)"/>
-        <path d="m2 21v1h7v-1zm14 0-7 7v1l7-7h14v-1z" fill="#e59305" fill-rule="evenodd"/>
-    </g>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient820"
+       id="linearGradient822"
+       x1="15.991707"
+       y1="29.99984"
+       x2="16"
+       y2="0"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <path
+     d="M0 0h32v32H0z"
+     fill="none"
+     id="path9" />
+  <path
+     d="m30.786 27.037-13.021-24c-0.37345-0.66681-1.051-1.037-1.8052-1.037-0.75517 0-1.4348 0.44489-1.8145 1.1107l-12.924 24c-0.30414 0.59319-0.30828 1.4073 0.066207 2.0004 0.37448 0.59215 0.97655 0.88874 1.7317 0.88874h25.945c0.7531 0 1.4338-0.37022 1.7379-0.96341 0.37966-0.59215 0.38276-1.3326 0.08379-1.9994z"
+     stroke-width="1.0358"
+     id="path11"
+     style="fill-opacity:1;fill:url(#linearGradient822)" />
+  <path
+     transform="translate(.004)"
+     d="M14.416 9.516c.375 3.666.805 7.307 1.125 10.987h1.02c.265-3.534.692-7.047 1-10.578.158-.835-.272-1.828-1.154-2.03-.873-.256-1.847.376-1.963 1.278-.02.113-.028.228-.028.343zm-.111 14.905c-.04 1.092 1.161 1.947 2.186 1.601.993-.253 1.516-1.501 1.007-2.389-.455-.917-1.791-1.219-2.56-.517-.388.32-.646.796-.633 1.305z"
+     fill="#ffffff"
+     font-family="Georgia"
+     font-size="62.458"
+     font-weight="400"
+     overflow="visible"
+     id="path13" />
 </svg>
